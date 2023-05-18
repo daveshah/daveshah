@@ -1,5 +1,5 @@
 ### Hi there, I'm Dave. 👋 
-I'm currently working as a Principal Software Engineer at STORD.   
+I'm currently working as a Staff Software Engineer at Covered.   
 I've served on a number of technical teams in a number of technical roles.
 My work history can be found out on [LinkedIn](https://www.linkedin.com/in/dashah/) if you're curious.
 
